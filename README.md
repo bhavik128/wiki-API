@@ -1,5 +1,5 @@
-#wiki-API 
-#RESTful API where you can:
+<h1>wiki-API</h1>
+<h1>RESTful API where you can:</h1>
 <h3>
 1. View(GET) all articles.
 <br>
@@ -14,4 +14,4 @@
 6. Delete(DELETE) a specific article.
 </h3>
 
-#Technologies used:Node.js,Express.js,MongoDB,Mongoose
+<h1>Technologies used:Node.js,Express.js,MongoDB,Mongoose</h1>
